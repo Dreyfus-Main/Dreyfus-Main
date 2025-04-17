@@ -17,11 +17,3 @@
 * GUI development
 * Game creation
 * Math and science enthusiast
-
-## Projects
-
-(No Project Yet)
-
-## Let's connect!
-
-Feel free to reach out to me about coding, games, or any of my interests.
